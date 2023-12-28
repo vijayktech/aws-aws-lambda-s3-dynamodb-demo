@@ -1,0 +1,6 @@
+org\example\function\LambdaS3DynamoDBHandler.class
+org\example\config\DynamoDBConfig.class
+org\example\Main.class
+org\example\domain\FileStore.class
+org\example\dao\DynamoDBFileStoreDao.class
+org\example\config\DynamoDBManager.class

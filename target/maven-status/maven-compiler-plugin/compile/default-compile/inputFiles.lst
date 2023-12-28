@@ -1,0 +1,6 @@
+C:\Users\Vijaykumar.Konkata\OneDrive - Trianz\Desktop\Vijay_demo_projects\aws-lambda-s3-dynamodb-demo\src\main\java\org\example\Main.java
+C:\Users\Vijaykumar.Konkata\OneDrive - Trianz\Desktop\Vijay_demo_projects\aws-lambda-s3-dynamodb-demo\src\main\java\org\example\config\DynamoDBManager.java
+C:\Users\Vijaykumar.Konkata\OneDrive - Trianz\Desktop\Vijay_demo_projects\aws-lambda-s3-dynamodb-demo\src\main\java\org\example\config\DynamoDBConfig.java
+C:\Users\Vijaykumar.Konkata\OneDrive - Trianz\Desktop\Vijay_demo_projects\aws-lambda-s3-dynamodb-demo\src\main\java\org\example\domain\FileStore.java
+C:\Users\Vijaykumar.Konkata\OneDrive - Trianz\Desktop\Vijay_demo_projects\aws-lambda-s3-dynamodb-demo\src\main\java\org\example\function\LambdaS3DynamoDBHandler.java
+C:\Users\Vijaykumar.Konkata\OneDrive - Trianz\Desktop\Vijay_demo_projects\aws-lambda-s3-dynamodb-demo\src\main\java\org\example\dao\DynamoDBFileStoreDao.java
